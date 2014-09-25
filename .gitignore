@@ -103,5 +103,5 @@ log
 .svn
 .phptidy-cache
 _svn
-indent_style = space
+node_modules
 Gemfile.lock
